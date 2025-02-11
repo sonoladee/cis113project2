@@ -1,0 +1,47 @@
+html{
+    background-color: #f3f7ff;
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0.25rem 1rem;
+    border: solid;
+    border-color: #072866;
+    background-color: #e1ecff;
+}
+
+header{
+    background-color: #e1ecff;
+}
+
+nav{
+    font-size: large;
+}
+
+main {
+    background-color: #ffffe3;
+}
+
+section {
+    background-color: #ffffee;
+    border-radius: 30px;
+    padding: 1em;
+    margin: 1.5em;
+}
+
+footer {
+    background-color: #072866;
+    color: #FFFFFF;
+}
+
+.footer-link:link{
+    color: #d9ffff;
+}
+
+.footer-link:visited{
+    color: #d9daff;
+}
